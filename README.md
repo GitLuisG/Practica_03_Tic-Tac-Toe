@@ -9,7 +9,7 @@
     <br>
     <div>
         <p align="center">
-        Manejador de <a href="#" >Cuentas</a> Bancarias
+        Tic<a href="#" >-Tac-</a>Toe
         </p>
     </div>
     <div>
